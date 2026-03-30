@@ -28,8 +28,14 @@ export default defineConfig({
         {
           name: "今朝酒",
           url:"https://www.kesazake.top/",
-          avatar:"https://www.kesazake.top/assets/images/%E8%8A%B1%E3%82%88%",
+          avatar:"https://www.kesazake.top/assets/images/%E8%8A%B1%E3%82%88%E3%82%8A%E5%BC%BE%E4%B8%B8.avif",
           description:"你好，这里是今朝酒。"
+        },
+        {
+          name: "時雨てる",
+          url:"https://keqing.moe",
+          avatar:"https://img.bili33.top/file/1774886086891_KeqingMoe.jpg",
+          description:"心有所向，日复一日，必有精进"
         }
       ],
       labels: {
