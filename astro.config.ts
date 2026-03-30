@@ -12,6 +12,26 @@ export default defineConfig({
         title: "Hi",
         description: "欢迎来到焦茶染香的回忆咖啡厅！",
       },
+      friends: [
+        {
+          name: "GamerNoTitle",
+          url:"https://bili33.top",
+          avatar:"https://assets.bili33.top/img/AboutMe/logo-mini.png",
+          description:"TECH OTAKUS SAVE THE WORLD"
+        },
+        {
+          name: "Phrinky's Blog",
+          url:"https://blog.rkk.moe",
+          avatar:"https://blog.rkk.moe/images/profile.webp",
+          description:"Ricky 的各种日常捏"
+        },
+        {
+          name: "今朝酒",
+          url:"https://www.kesazake.top/",
+          avatar:"https://www.kesazake.top/assets/images/%E8%8A%B1%E3%82%88%",
+          description:"你好，这里是今朝酒。"
+        }
+      ],
       labels: {
         latestPostsHeading: "- 木质调时刻",
         latestPostsMore: "品鉴",
